@@ -6385,7 +6385,8 @@
 	<item component="ComponentInfo{org.xphnx.iconsubmit/org.xphnx.iconsubmit.MainActivity}" drawable="turtl_icons"/>
 
 	<!-- Contact Diary -->
-	<item component="ComponentInfo{com.apozas.contactdiary/com.apozas.contactdiary.MainActivity}" drawable="contact_diary"/>
+	<item component="ComponentInfo{com.apozas.contactdiary/com.apozas.contactdiary.MainActivity}" drawable="contact_diary"/> <!-- f-droid & PlayStore version -->
+	<item component="ComponentInfo{com.apozas.contactdiaryfree/com.apozas.contactdiary.MainActivity}" drawable="contact_diary"/> <!-- PlayStore version free -->
 
 	<!-- Personal Safety -->
 	<item component="ComponentInfo{com.google.android.apps.safetyhub/com.google.android.apps.safetyhub.LauncherActivity}" drawable="personal_safety"/>
